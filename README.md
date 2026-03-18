@@ -39,7 +39,7 @@ Sou uma pessoa dedicada e proativa. Busco constantemente evoluir tanto no âmbit
 
 ---
 ### 📫 Vamos nos conectar?
-[!["LinkedIn"](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](karolinyportelferraresso)
+[!["LinkedIn"](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karolpferraresso/)
 [!["Email"](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karol.p.ferraresso@gmail.com)
 
 ---
