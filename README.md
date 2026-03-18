@@ -26,12 +26,16 @@ Acredito que a disciplina vem de diferentes áreas da vida:
 ### 📈 Objetivos
 Sou uma pessoa dedicada e proativa. Busco constantemente evoluir tanto no âmbito pessoal quanto profissional, aplicando a disciplina que aprendi nos esportes e na música dentro do mundo da tecnologia.
 
+
 ### 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=karolpferraresso&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
 
 ---
 ### 📫 Vamos nos conectar?
