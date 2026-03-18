@@ -1,4 +1,7 @@
-# Olá, eu sou Karoliny Poretl Ferraresso! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&customColorList=1,2,3,4&height=180&section=header&text=Karoliny+Portel+Ferraresso&fontSize=35&fontColor=87CEEB&animation=fadeIn&fontAlignY=35&font=Georgia"/>
+
+# Olá, eu sou Karoliny Portel Ferraresso! 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Estudante+de+Desenvolvimento+de+Sistemas;Músico+pelo+UNASP;Cursando+Inglês)
 
 ### 🚀 Estudante de Desenvolvimento de Sistemas | Entusiasta de Tecnologia e Bem-estar
 
@@ -37,3 +40,4 @@ Sou uma pessoa dedicada e proativa. Busco constantemente evoluir tanto no âmbit
 
 ---
 *"A constância é o que transforma o esforço em resultado."*
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001F3F&height=180&section=footer"/>
